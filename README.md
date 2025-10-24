@@ -1,4 +1,4 @@
-# 🧛 Vampire Sunrise/Sunset Tracker
+# Sunrise/Sunset Tracker
 
 A simple Python app that helps vampires avoid a fatal tan — it fetches upcoming sunrise and sunset times for any location.
 
